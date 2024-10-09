@@ -1,4 +1,3 @@
-# GENERADOR DE CC
+# ND GERADOR V2
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/AvastrOficial/pen/YzoZOYj](https://codepen.io/AvastrOficial/pen/YzoZOYj).
-
+Entre em contato comigo: https://t.me/NDBIGODE
